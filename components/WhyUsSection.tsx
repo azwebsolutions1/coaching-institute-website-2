@@ -168,7 +168,7 @@ export default function WhyUsSection() {
                     key={label}
                     className="bg-white rounded-2xl p-5 border border-white/50 shadow-sm text-center"
                   >
-                    <div className="text-xl font-bold text-[#1a3a8f]">
+                    <div className="text-base md:text-xl font-bold text-[#1a3a8f]">
                       {label}
                     </div>
                     <div className="text-gray-500 text-xs mt-1">{detail}</div>
